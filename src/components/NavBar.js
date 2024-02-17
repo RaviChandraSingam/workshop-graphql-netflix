@@ -6,7 +6,7 @@ const NavBar = () => {
           <div className="logo"></div>
         </li>
         <li>
-          <a href="/">Home</a>
+          <a href="/">Ravi Home</a>
         </li>
       </ul>
     </div>
